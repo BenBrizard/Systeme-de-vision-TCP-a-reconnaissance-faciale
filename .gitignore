@@ -1,0 +1,6 @@
+*.pro*
+*.av*
+*.o*
+build*
+*cache
+*/doc/*
